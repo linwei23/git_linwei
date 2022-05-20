@@ -3,5 +3,6 @@ public class Hello{
 		System.out.println("hello git init");
 		System.out.println("modify by linwei");
 		System.out.println("dev branch modify");
+		System.out.println("modify by dev branch second");
 	}
 }
